@@ -1,0 +1,51 @@
+section{
+   text-align: center;
+   padding: 10px;
+   border: 3px solid black;
+   width: 100%;
+}
+ .just{
+     padding: 10px;
+ }
+ .img1{
+    float: left;
+}
+
+
+ .box::after{
+     margin: 2rem;
+     padding: 10px;
+     border: 1px solid blue;
+ }
+
+ .box{
+    margin: 2rem;
+    padding: 10px;
+    border: 1px solid blue;
+    width: 100%;
+
+ }
+
+ form{
+     width: 100%;
+     text-align: center;
+ }
+
+ .btn{
+     padding: 10px;
+     text-align: center;
+     margin: 10px;
+     width: 100%;
+ }
+
+ button:hover{
+     background-color: seagreen;
+ }
+.btn1{
+    padding: 10px;
+    margin: 10px;
+}
+ .btn2{
+     padding: 10px;
+     margin: 10px;
+ }
